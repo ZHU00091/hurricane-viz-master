@@ -1,6 +1,6 @@
 # hurricane-viz
 
-Hurricane Visualization Porject
+Hurricane Visualization Project
 
 ### Group members
 
