@@ -5,8 +5,7 @@ Hurricane Visualization Porject
 ### Group members
 
 Cyrus  
-Hongyu(Eric)  
-Noah  
+Hongyu(Eric)   
 
 ### TODO list: add below :octocat:
 
@@ -14,7 +13,7 @@ Noah
 > - [x] script download 'track' files
 > - [x] create object handling the data
 > - [x] create a map of the area
-> - [x] hurricane picture 
+> - [x] hurricane picture
 > - [x] loading hurricane data to the map (moving)
 > - [x] add a track-line for movement
 
